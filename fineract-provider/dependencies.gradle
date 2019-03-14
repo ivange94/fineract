@@ -27,9 +27,9 @@ dependencies {
 
     providedRuntime("org.springframework.boot:spring-boot-starter-tomcat:${springBootVersion}")
 
-    providedCompile(
+ //   providedCompile(
 //              [group: 'javax.servlet', name: 'servlet-api', version: '2.5'],
-            )
+ //           )
 
     compile(
                // [group: 'ch.vorburger.mariaDB4j', name: 'mariaDB4j', version: '2.1.3'],
